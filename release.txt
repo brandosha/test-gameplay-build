@@ -1,1 +1,3 @@
-- Add support for emulating Gameboy Link Cable wirelessly (WIP)
+- Add support for importing and exporting .sav files
+- Update UI for handling game state
+- UI update to better support full screen iPhones
